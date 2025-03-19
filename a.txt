@@ -1,1 +1,1 @@
-This is the conflict-feature branch change.
+This is a fast-forward merge test.
